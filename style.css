@@ -85,7 +85,7 @@ button{
     background: transparent;
     color: #fff;
     cursor: pointer;
-    transition: 0.5s;
+    transition: 0.05s;
 }
 button::after{
     width: 200px;

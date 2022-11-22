@@ -113,6 +113,7 @@ span{
     
 }
 button:hover span{
+    background: #009688;
     width: 100%;
 }
 button:hover{

@@ -85,7 +85,7 @@ button{
     background: transparent;
     color: #fff;
     cursor: pointer;
-transition: 2s;
+transition: 1s;
 
 
 }
@@ -102,7 +102,7 @@ button:hover::after{
     cursor: pointer;
     position: relative;
     overflow: hidden;
-transition: 2s;
+transition: 1s;
 
 
 }
@@ -115,7 +115,7 @@ span{
     left: 0;
     bottom: 0;
     z-index: -1;
-transition: 2s;
+transition: 1s;
 
 
 
@@ -124,13 +124,13 @@ transition: 2s;
 button:hover span{
     background: #009688;
     width: 100%;
-transition: 2s;
+transition: 2=1s;
 }
 button:hover{
     border: none;
     width: 100%;
     background: #009688;
-transition: 2s;
+transition: 1s;
 
 
 

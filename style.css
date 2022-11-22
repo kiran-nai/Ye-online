@@ -87,7 +87,7 @@ button{
     cursor: pointer;
 
 }
-button:hover:after{
+button:hover::after{
     width: 200px;
     padding: 15px 0;
     text-align: center;
@@ -125,6 +125,9 @@ button:hover{
     border: none;
     width: 100%;
     background: #009688;
+transition: 0.05s;
+
+
 
 }
 

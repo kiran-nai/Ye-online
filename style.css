@@ -65,11 +65,11 @@
     color: #fff;
 }
 .content h1{
-    font-size: 50vh;
+    font-size: 20vh;
     margin-top: 80px;
 }
 .content p{
-    margin: 20vh auto;
+    margin: 10vh auto;
     font-weight: 100;
     line-height: 25px;
 }

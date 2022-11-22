@@ -100,7 +100,7 @@ button::after{
     cursor: pointer;
     position: relative;
     overflow: hidden;
-transition: 0.05s;
+
 }
 span{
     background: transparent;
@@ -111,6 +111,7 @@ span{
     left: 0;
     bottom: 0;
     z-index: -1;
+transition: 0.05s;
 
     
 }

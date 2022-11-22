@@ -99,6 +99,7 @@ button::after{
     cursor: pointer;
     position: relative;
     overflow: hidden;
+    transition: 0.5s;
 }
 span{
     background: #009688;

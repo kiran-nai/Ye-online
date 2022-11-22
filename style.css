@@ -154,6 +154,7 @@ button:hover{
     padding: 0;
     color: white;
     display: flex;
+  flex-direction: column;
 
 
 }

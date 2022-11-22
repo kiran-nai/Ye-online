@@ -87,7 +87,7 @@ button{
     cursor: pointer;
 
 }
-button::after{
+button:hover:after{
     width: 200px;
     padding: 15px 0;
     text-align: center;
@@ -111,13 +111,14 @@ span{
     left: 0;
     bottom: 0;
     z-index: -1;
-transition: 0.05s;
+
 
     
 }
 button:hover span{
     background: #009688;
     width: 100%;
+transition: 0.05s;
 
 }
 button:hover{

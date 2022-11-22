@@ -124,7 +124,7 @@ transition: 1s;
 button:hover span{
     background: #009688;
     width: 100%;
-transition: 2=1s;
+
 }
 button:hover{
     border: none;

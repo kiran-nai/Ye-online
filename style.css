@@ -124,7 +124,7 @@ transition: 0.05s;
 button:hover span{
     background: #009688;
     width: 100%;
-transition: 0.5s;
+    transition: 0.75s;
 
 
 }

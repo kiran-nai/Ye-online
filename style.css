@@ -13,9 +13,7 @@
 	position: relative;
     background-repeat:no-repeat;
 }
-.mobile h1{
-    
-}
+
 .navbar{
     width:85%;
     margin: auto;
@@ -29,7 +27,7 @@
 .navbar img{
     width:200px;
     height:75px;
-    background-color-white;
+    background:white;
     cursor: pointer;
     
 }

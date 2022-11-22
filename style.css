@@ -65,7 +65,8 @@
     color: #fff;
 }
 .content h1{
-    font-size: 20vh;
+    font-size: 15vh;
+    margin:10vw, 10vh auto;
     margin-top: 80px;
 }
 .content p{

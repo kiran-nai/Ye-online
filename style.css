@@ -27,7 +27,7 @@
 .navbar img{
     width:200px;
     height:75px;
-    background:#196B65;
+    background:rgba(25, 107, 101, 0.6);
     
     cursor: pointer;
     border-radius: 10px;

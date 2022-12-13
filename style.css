@@ -25,6 +25,11 @@
 
 
 .navbar img{
+    background: #fff;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
     width:200px;
     height:75px;
     background:transparent;

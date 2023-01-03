@@ -16,7 +16,7 @@
 
 .banner1{
     width: 100%;
-    height: 170%;
+    height: 120%;
     background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.00)),url(background.png);
     background-size: cover;
 	background-position: right top;

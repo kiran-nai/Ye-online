@@ -237,12 +237,13 @@ button:hover{
 .board-container {
   display: flex;
   justify-content: center;
-  padding-bottom:40px;
+  padding-bottom:10px;
+  flex-wrap: wrap;
 
 }
 
 .textbox2 {
-    padding:20px 12px;
+  padding:20px 12px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;

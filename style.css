@@ -237,7 +237,7 @@ button:hover{
 .board-container {
   display: flex;
   justify-content: center;
-  margin-bottom:20px;
+  padding-bottom:20px;
 
 }
 

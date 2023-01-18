@@ -193,6 +193,17 @@ button:hover{
 }
 
 
+.button a:link { text-decoration: none; color:#fff;}
+
+
+.button a:visited { text-decoration: none; color:#fff; }
+
+
+.button a:hover { text-decoration: none; color:#fff; }
+
+
+.button a:active { text-decoration: none; color:#fff; }
+
 
 .textbox{
     

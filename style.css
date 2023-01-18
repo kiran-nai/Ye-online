@@ -23,7 +23,7 @@
     background-size: cover;
 	background-position: right top;
     background-repeat:no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed;/
 }
 .banner2{
     width: 100%;
@@ -193,16 +193,16 @@ button:hover{
 }
 
 
-.button a:link { text-decoration: none; color:#fff;}
+.button span a:link { text-decoration: none; color:#fff;}
 
 
-.button a:visited { text-decoration: none; color:#fff; }
+.button span a:visited { text-decoration: none; color:#fff; }
 
 
-.button a:hover { text-decoration: none; color:#fff; }
+.button span a:hover { text-decoration: none; color:#fff; }
 
 
-.button a:active { text-decoration: none; color:#fff; }
+.button span a:active { text-decoration: none; color:#fff; }
 
 
 .textbox{
